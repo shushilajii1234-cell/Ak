@@ -1,0 +1,7 @@
+{
+  "name": "Brain Zingle - 500 Levels Brain Test Game",
+  "description": "Tricky puzzles, lateral thinking brain teasers, and funny physics challenges across 500 mind-bending levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
